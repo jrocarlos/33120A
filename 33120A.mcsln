@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# MET/CAL Solution File
+Project("{0A95F279-908B-4153-BB12-D9936C7938D9}") = "33120A", "33120A\33120A.mcproj", "{D8C28188-27B5-42EF-8221-B2A212B2BF43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C28188-27B5-42EF-8221-B2A212B2BF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C28188-27B5-42EF-8221-B2A212B2BF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
