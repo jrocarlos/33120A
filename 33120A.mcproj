@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d8c28188-27b5-42ef-8221-b2a212b2bf43}</ProjectGuid>
+    <RootNamespace>_33120A</RootNamespace>
+    <AssemblyName>33120A</AssemblyName>
+    <Name>33120A</Name>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="FREQ.mc" />
+    <Compile Include="LEV.mc" />
+    <Compile Include="MAIN.mc">
+      <MainProcedure>True</MainProcedure>
+    </Compile>
+    <Compile Include="REF.mc" />
+    <Compile Include="VOL.mc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SETUP1.JPG" />
+    <Content Include="SETUP2-1.JPG" />
+    <Content Include="SETUP2-2.JPG" />
+    <Content Include="SETUP3.JPG" />
+    <Content Include="SETUP4.JPG" />
+  </ItemGroup>
+</Project>
