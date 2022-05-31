@@ -1,5 +1,5 @@
 # 33120A
-Procedure to automate Keysight/Agilent/HP 33120A signal generator calibration with Metcal software calibration.
+Procedure to automate Keysight/Agilent/HP 33120A signal generator calibration with Met / Cal Fluke software calibration.
 
 To use this calibration software, Fluke Corpotarion's Metcal Calibration Software is required.
 
